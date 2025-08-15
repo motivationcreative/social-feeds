@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Motivation Feed</title>
+    <link>https://example.com/motivation</link>
+    <description>Daily motivation</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Discipline over motivation. Start small today.</title>
+      <link>https://example.com/motivation/001</link>
+      <guid>motivation-001</guid>
+      <pubDate>Fri, 15 Aug 2025 10:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Win the day: 1 tiny task you’ve been avoiding.</p>
+        <img src="https://picsum.photos/id/1025/1080/1350" alt="motivation"/>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>No zero days.</title>
+      <link>https://example.com/motivation/002</link>
+      <guid>motivation-002</guid>
+      <pubDate>Fri, 15 Aug 2025 10:05:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Even 5 minutes counts. Do it now.</p>
+        <img src="https://picsum.photos/id/1005/1080/1350" alt="motivation"/>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
