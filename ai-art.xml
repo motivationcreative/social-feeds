@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>AI Art Feed</title>
+    <link>https://example.com/ai-art</link>
+    <description>Prompts + showcase</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Cyberpunk Belgrade street at dusk</title>
+      <link>https://example.com/ai-art/001</link>
+      <guid>aiart-001</guid>
+      <pubDate>Fri, 15 Aug 2025 10:20:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Prompt: neon rain, puddle reflections, 85mm, f/1.4, volumetric light</p>
+        <img src="https://picsum.photos/id/1012/1080/1350" alt="ai-art"/>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Ancient statue made of clouds</title>
+      <link>https://example.com/ai-art/002</link>
+      <guid>aiart-002</guid>
+      <pubDate>Fri, 15 Aug 2025 10:25:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>Prompt: marble drapery dissolving into cirrus, sunrise palette</p>
+        <img src="https://picsum.photos/id/1003/1080/1350" alt="ai-art"/>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
