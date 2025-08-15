@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Fitness Feed</title>
+    <link>https://example.com/fitness</link>
+    <description>Quick fitness tips</description>
+    <language>en-us</language>
+
+    <item>
+      <title>10-minute full-body warmup</title>
+      <link>https://example.com/fitness/001</link>
+      <guid>fitness-001</guid>
+      <pubDate>Fri, 15 Aug 2025 10:10:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>4 rounds: jumping jacks, squats, pushups, high knees (40s on / 20s off).</p>
+        <img src="https://picsum.photos/id/237/1080/1350" alt="fitness"/>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Protein rule of thumb</title>
+      <link>https://example.com/fitness/002</link>
+      <guid>fitness-002</guid>
+      <pubDate>Fri, 15 Aug 2025 10:15:00 GMT</pubDate>
+      <description><![CDATA[
+        <p>0.7–1g po lb (1.6–2.2g/kg) dnevno za većinu rekreativaca.</p>
+        <img src="https://picsum.photos/id/1011/1080/1350" alt="fitness"/>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
